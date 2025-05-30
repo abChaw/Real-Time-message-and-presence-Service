@@ -1,0 +1,6 @@
+com\abchawla\mapp\App.class
+com\abchawla\mapp\core\ChatMessage.class
+com\abchawla\mapp\core\ChatRoom.class
+com\abchawla\mapp\publisher\EventPublisher.class
+com\abchawla\mapp\core\PresenceEvent$Status.class
+com\abchawla\mapp\core\PresenceEvent.class

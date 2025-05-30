@@ -1,0 +1,4 @@
+com\abchawla\mapp\entity\MessageEntity.class
+com\abchawla\mapp\App.class
+com\abchawla\mapp\repo\MessageRepository.class
+com\abchawla\mapp\service\MessageService.class
