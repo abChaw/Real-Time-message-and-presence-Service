@@ -8,3 +8,7 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: false
+app:
+  jwt:
+    secret: verylongsecretkeymustbe32bytesminimum123456
+    expiration: 86400000   # 1 day in ms
